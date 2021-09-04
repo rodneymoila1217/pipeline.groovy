@@ -8,7 +8,7 @@ node{
    
    }
 
- stage()
+ stage('Results')
   {
    sh 'Results'
   }
