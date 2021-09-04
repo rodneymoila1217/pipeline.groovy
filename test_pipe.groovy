@@ -10,7 +10,7 @@ node{
 
  stage('Results')
   {
-   sh 'Results'
+    sh 'echo "Results"'
   }
 
 }
